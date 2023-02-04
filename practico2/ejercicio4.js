@@ -1,4 +1,5 @@
 function multiplicar (n) {
     return n * 23
 }
-console.log(multiplicar(9))
+const resultado = multiplicar(9)
+console.log(resultado)
